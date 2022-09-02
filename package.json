@@ -1,0 +1,14 @@
+{
+  "name": "classnames",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf dist && tsc"
+  },
+  "author": "SLK",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "4.8.2"
+  }
+}
